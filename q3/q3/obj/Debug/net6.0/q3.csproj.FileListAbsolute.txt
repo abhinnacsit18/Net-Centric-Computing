@@ -1,0 +1,30 @@
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\bin\Debug\net6.0\q3.exe
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\bin\Debug\net6.0\q3.deps.json
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\bin\Debug\net6.0\q3.runtimeconfig.json
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\bin\Debug\net6.0\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\bin\Debug\net6.0\q3.pdb
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\refint\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.pdb
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\q3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions_for_final\q3\q3\obj\Debug\net6.0\ref\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\bin\Debug\net6.0\q3.exe
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\bin\Debug\net6.0\q3.deps.json
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\bin\Debug\net6.0\q3.runtimeconfig.json
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\bin\Debug\net6.0\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\bin\Debug\net6.0\q3.pdb
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.AssemblyInfo.cs
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\refint\q3.dll
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.pdb
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\q3.genruntimeconfig.cache
+C:\Users\Dell\Desktop\orchid\6th sem\csc_367_net_net centric computing\lab_net\000_lab_questions\lab 001\q3\q3\obj\Debug\net6.0\ref\q3.dll
